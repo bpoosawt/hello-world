@@ -1,2 +1,3 @@
 # hello-world
-restarting anew
+
+I'm a person, doing what people do, rediscovering some old skills and finding new ones.
